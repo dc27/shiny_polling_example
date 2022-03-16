@@ -10,6 +10,10 @@ underlying source data.
 1. Open `app.R`
 1. Run App
 
+## Additional Resources
+
+See [Mastering Shiny](https://mastering-shiny.org/reactivity-objects.html#polling)
+
 ## Requirements
 
 |package | version |
